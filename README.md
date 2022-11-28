@@ -11,7 +11,7 @@ Visual Studio Code 를 이용하여 config.yml 파일내용을 수정함.
 post 폴더에 MongoDB정리 파일과 Avengers 파일을 생성해서 내용을 작성함. 
 변경된 내용을 저장하고, git add . 으로 추가한 후 git commit -m "add: jekyll on repository"로 커밋을 남김.
 마지막으로 git push origin main으로 푸쉬하여 원격 저장소에 저장함.
-블로그 사이트에 들어가서 변경된 사항을 확인함.
+블로그 사이트에 들어간 후 post를 눌러서 추가한 파일들이 작성되어있는지 확인함.
 
 ## 테마 추가
 원하는 테마의 깃허브 사이트를 들어가서 나의 로컬 저장소에 복사를 하여 파일들을 가져옴.
