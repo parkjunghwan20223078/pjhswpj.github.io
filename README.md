@@ -21,4 +21,5 @@ post 폴더에 MongoDB정리 파일과 Avengers 파일을 생성해서 내용을
 disqus 홈페이지에 가입 한 후 사이트를 생성함.
 config.yml파일에 key value를 추가하고, layout/post.html 파일에 Universal Code를 복사함.
 comments : true로 지정. 
-변경사항을 푸쉬한 후 블로그에 댓글 기능이 반영되었는지 확인함.
+변경사항을 푸쉬한 후 블로그에 댓글 기능을 반영함.
+사이트에 들어간 후 post로 들어 가서 각각의 내용들에 댓글 기능이 있는지 확인함. 
